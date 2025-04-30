@@ -35,8 +35,8 @@
 #define DEF_LAN_DHCP_END	"192.168.31.150"
 #define DEF_LAN_MASK		"255.255.255.0"
 
-#define DEF_WLAN_2G_CC		"CN"
-#define DEF_WLAN_5G_CC		"CN"
+#define DEF_WLAN_2G_CC		"US"
+#define DEF_WLAN_5G_CC		"US"
 #define DEF_WLAN_2G_SSID	"xiaomi"
 #define DEF_WLAN_5G_SSID	"xiaomi_5G"
 #define DEF_WLAN_2G_GSSID	"xiaomi_GUEST"
